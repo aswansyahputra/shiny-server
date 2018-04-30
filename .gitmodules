@@ -1,9 +1,6 @@
 [submodule "sensehub_rancang"]
 	path = sensehub_rancang
 	url = https://github.com/aswansyahputra/sensehub_rancang.git
-[submodule "sensehub_analisa"]
-	path = sensehub_analisa
-	url = https://github.com/aswansyahputra/sensehub_analisa.git
 [submodule "SenseHub"]
 	path = SenseHub
 	url = https://github.com/aswansyahputra/SenseHub.git
