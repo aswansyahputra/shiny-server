@@ -1,3 +1,6 @@
 [submodule "SenseHub"]
 	path = SenseHub
 	url = https://github.com/aswansyahputra/SenseHub.git
+[submodule "thermostats"]
+	path = thermostats
+	url = https://github.com/aswansyahputra/thermostats.git
