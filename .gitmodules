@@ -4,3 +4,6 @@
 [submodule "sensehub"]
 	path = sensehub
 	url = https://github.com/aswansyahputra/sensehub.git
+[submodule "databank"]
+	path = databank
+	url = https://github.com/aswansyahputra/databank.git
