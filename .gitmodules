@@ -7,3 +7,6 @@
 [submodule "databank"]
 	path = databank
 	url = https://github.com/aswansyahputra/databank.git
+[submodule "mcdm"]
+	path = mcdm
+	url = https://github.com/aswansyahputra/mcdm.git
