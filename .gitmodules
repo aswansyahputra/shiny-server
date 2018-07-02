@@ -10,3 +10,6 @@
 [submodule "mcdm"]
 	path = mcdm
 	url = https://github.com/aswansyahputra/mcdm.git
+[submodule "sensekit"]
+	path = sensekit
+	url = https://github.com/aswansyahputra/sensekit.git
